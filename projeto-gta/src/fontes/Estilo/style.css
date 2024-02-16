@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ChaletComprime-MilanSixty';
+    src: local('Chalet Comprime Milan Sixty'), local('Chalet-Comprime-Milan-Sixty'),
+        url('ChaletComprime-MilanSixty.woff2') format('woff2'),
+        url('ChaletComprime-MilanSixty.woff') format('woff'),
+        url('ChaletComprime-MilanSixty.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
